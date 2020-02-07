@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X X",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_boots"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots"
+  }
+}

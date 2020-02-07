@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.wurstclient.netherite.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GlassBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
