@@ -2,7 +2,7 @@
 
 ## Downloads
 
-TBD
+https://github.com/Wurst-Imperium/Netherite-Rebalanced/releases
 
 ## Setup For Developers (using Windows 10 and Eclipse)
 
