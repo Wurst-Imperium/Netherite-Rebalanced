@@ -3,7 +3,8 @@
   "package": "net.wurstclient.netherite.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "GlassBlockMixin"
+    "AxeItemMixin",
+    "PickaxeItemMixin"
   ],
   "client": [
   ],
